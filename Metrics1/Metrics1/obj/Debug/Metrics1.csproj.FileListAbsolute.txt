@@ -1,0 +1,6 @@
+C:\Users\uid00201\Desktop\WebSiteRepo\Metrics\Metrics1\Metrics1\bin\Debug\Metrics1.exe.config
+C:\Users\uid00201\Desktop\WebSiteRepo\Metrics\Metrics1\Metrics1\bin\Debug\Metrics1.exe
+C:\Users\uid00201\Desktop\WebSiteRepo\Metrics\Metrics1\Metrics1\bin\Debug\Metrics1.pdb
+C:\Users\uid00201\Desktop\WebSiteRepo\Metrics\Metrics1\Metrics1\obj\Debug\Metrics1.csproj.CoreCompileInputs.cache
+C:\Users\uid00201\Desktop\WebSiteRepo\Metrics\Metrics1\Metrics1\obj\Debug\Metrics1.exe
+C:\Users\uid00201\Desktop\WebSiteRepo\Metrics\Metrics1\Metrics1\obj\Debug\Metrics1.pdb
