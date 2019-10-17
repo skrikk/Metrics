@@ -10,7 +10,7 @@ namespace Metrics1
     {
         static void Main(string[] args)
         {
-            
+            ConsoleWriterLine("hommik")
         }
     }
 }
